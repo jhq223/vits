@@ -49,6 +49,8 @@
     "n_layers_q": 3,
     "use_spectral_norm": false,
     "gin_channels": 256
-  }"speakers": [,"\u5929\u738b\u5bfa\u88d5\u543e", "\u5ca1\u90e8\u502b\u592a\u90ce", "\u690e\u540d\u307e\u3086\u308a", "\u6a4b\u7530\u81f3", "\u7267\u702c\u7d05\u8389\u6816", "\u6850\u751f\u840c\u90c1", "\u6f06\u539f\u308b\u304b", "\u79cb\u8449\u7559\u672a\u7a42", "\u963f\u4e07\u97f3\u9234\u7fbd", "\u5929\u738b\u5bfa\u7daf"],
+  },
+  "speakers": ["\u5929\u738b\u5bfa\u88d5\u543e","\u5ca1\u90e8\u502b\u592a\u90ce","\u690e\u540d\u307e\u3086\u308a","\u6a4b\u7530\u81f3","\u7267\u702c\u7d05\u8389\u6816","\u6850\u751f\u840c\u90c1","\u6f06\u539f\u308b\u304b","\u79cb\u8449\u7559\u672a\u7a42","\u963f\u4e07\u97f3\u9234\u7fbd","\u5929\u738b\u5bfa\u7daf"],
   "symbols": ["_", ",", ".", "!", "?", "-", "A", "E", "I", "N", "O", "Q", "U", "a", "b", "d", "e", "f", "g", "h", "i", "j", "k", "m", "n", "o", "p", "r", "s", "t", "u", "v", "w", "y", "z", "\u0283", "\u02a7", "\u2193", "\u2191", " "]
 }
+
